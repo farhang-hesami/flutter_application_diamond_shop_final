@@ -29,6 +29,7 @@ dependencies:
   persian_number_utility: ^1.1.4
   shared_preferences: ^2.2.3
   connectivity_plus: ^4.0.1
+  shamsi_date: ^1.0.2
 
 dev_dependencies:
   flutter_test:
